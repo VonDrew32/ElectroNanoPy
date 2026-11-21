@@ -27,7 +27,7 @@ s = load_structure("CONTCAR"); print(summary(s)); plot_structure(s, (2, 2, 1))
 ## Estructura
 - `src/electronanopy/structural/io.py`: lectura y errores claros.
 - `src/electronanopy/structural/descriptors.py`: red, grupo espacial, vacío, enlaces, coordinación, ángulos.
-- `src/electronanopy/structural/plotting.py`: figura 3D (matplotlib), reutilizable en la futura GUI.
+- `src/electronanopy/structural/plotting.py`: figura 3D (matplotlib).
 - `tests/`: pruebas con grafeno (valores conocidos).
 
 ## Módulo de fonones
