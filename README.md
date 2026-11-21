@@ -142,7 +142,7 @@ reporte avisa si una serie no está convergida (≤ 5 meV entre los tres último
 deben ser ≈ 0 (regla de suma acústica; umbral 0.3 THz) y la supercelda debe tener un vector ≥ 10 Å. En la pestaña
 Fonones se puede elegir el camino (automático, 2D o 3D) e imponer la regla de suma acústica sobre una copia.
 
-«Visualización inteligente» = reglas automáticas y transparentes, no machine learning. Los umbrales están en
+«Visualización inteligente» = Umbrales en
 `electronanopy.report.Thresholds`.
 
 Capas: `project.py` (detección y carga, sin interfaz) → `report.py` (reglas) → `app/` (PySide6). Las dos primeras se
