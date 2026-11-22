@@ -147,3 +147,7 @@ Fonones se puede elegir el camino (automático, 2D o 3D) e imponer la regla de s
 
 Capas: `project.py` (detección y carga, sin interfaz) → `report.py` (reglas) → `app/` (PySide6). Las dos primeras se
 pueden usar sin Qt.
+
+## Video de demostración
+
+https://youtu.be/oD1LTm20JU4
