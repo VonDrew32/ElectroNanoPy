@@ -150,4 +150,4 @@ pueden usar sin Qt.
 
 ## Video de demostración
 
-https://youtu.be/oD1LTm20JU4
+https://youtu.be/CkJR6BXtkxo
